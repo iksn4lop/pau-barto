@@ -60,10 +60,10 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'images/slides/slide01.jpg': '0% 35%',
-							'images/slides/slide02.jpg': 'center',
-							'images/slides/slide03.jpg': 'center',
-							'images/slides/slide04.jpg': 'center'
+							'images/slides/slide01.webp': '0% 35%',
+							'images/slides/slide02.webp': 'center',
+							'images/slides/slide03.webp': 'center',
+							'images/slides/slide04.webp': 'center'
 						},
 
 					// Delay.
